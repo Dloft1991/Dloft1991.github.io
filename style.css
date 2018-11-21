@@ -10,7 +10,7 @@ h1 {
 }
 
 #box {
-    align: center;
+    text-align: center;
     background: 50px;
     background-color: grey;
     font-size: 100px;
