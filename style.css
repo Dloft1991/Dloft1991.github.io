@@ -1,4 +1,22 @@
 body {
-    background-color: Green;
+    background-color: lightgrey;
     color: Red;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    background-color: 
+    
+}
+
+#box {
+    align: center;
+    background: 50px;
+    background-color: grey;
+    font-size: 100px;
+    
+   
+    
+    
 }
